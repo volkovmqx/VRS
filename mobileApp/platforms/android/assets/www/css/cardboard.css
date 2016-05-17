@@ -1,0 +1,50 @@
+cardboard-gl {
+  display: block;
+  background: black;
+  width: 100%;
+  height: 100%;
+}
+.topControls {
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 100%;
+  height: calc(100% - 40px);
+}
+.bottomControls {
+  position: absolute;
+  text-align: center;
+  height: 40px;
+  bottom: 0px;
+  width: 100%;
+  z-index: 1;
+}
+.shadow {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.LeftText {
+  position: relative;
+  width: 50%;
+  float: left;
+}
+.RightText {
+  position: relative;
+  width: 50%;
+  float: right;
+  overflow: hidden;
+}
+.LeftText img {
+  position: absolute;
+    width: 200%;
+    left: -50%;
+}
+.RightText img {
+  position: relative;
+width: 200%;
+left: -50%;
+}

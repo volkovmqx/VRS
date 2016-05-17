@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.spacecardboard506454"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.spacecardboard506454"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.spacecardboard506454"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.spacecardboard506454"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.spacecardboard506454"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.spacecardboard506454"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.ionicframework.spacecardboard506454"
+        },
+        "org.dartlang.phonegap.gyroscope": {
+            "PACKAGE_NAME": "com.ionicframework.spacecardboard506454"
+        }
+    },
+    "dependent_plugins": {}
+}
