@@ -1,7 +1,9 @@
-# VRS
+# VRS An OpenSource Virtual Reality 3D Streaming Station
 
 Using Google Cardboard, this project let you see another place in Real Time.
+
 Demo [here](https://www.youtube.com/watch?v=HG2e9lBOV7o) 
+
 This project was inspired by John Choi @ Instructables, BUT the software and the architecture that was provided is not that real time ,system limited (working only in windows) and properitary software that you can not hack into.
 
 So i wrote another code : 
